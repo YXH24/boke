@@ -1,0 +1,22 @@
+{
+  "name": "yxh",
+  "version": "1.0.0",
+  "description": "yxh",
+  "main": "yxh",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yxh"
+  },
+  "keywords": [
+    "yxh"
+  ],
+  "author": "yxh",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.61"
+  }
+}

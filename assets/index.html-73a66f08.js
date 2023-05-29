@@ -1,0 +1,1 @@
+import{_ as n,M as o,p as t,q as c,N as s}from"./framework-d033f4cd.js";const _={};function r(m,a){const e=o("myResume");return t(),c("div",null,[s(e)])}const d=n(_,[["render",r],["__file","index.html.vue"]]);export{d as default};

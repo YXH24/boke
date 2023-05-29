@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as o,R as n}from"./framework-d033f4cd.js";const r={},_=n("h1",null,"页面标题",-1),c=[_];function s(a,l){return t(),o("div",null,c)}const m=e(r,[["render",s],["__file","frontmatter.html.vue"]]);export{m as default};

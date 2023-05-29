@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-57411c30","path":"/frontmatter.html","title":"页面的标题","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"页面的标题","description":"页面的描述"},"headers":[],"git":{"updatedTime":1680252625000,"contributors":[{"name":"Toom Young","email":"10455471+toom-young@user.noreply.gitee.com","commits":1}]},"filePathRelative":"frontmatter.md"}');export{t as data};

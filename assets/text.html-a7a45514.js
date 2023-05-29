@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as _,R as c}from"./framework-d033f4cd.js";const o={},s=c("h1",null,"1233123",-1),n=[s];function r(a,l){return t(),_("div",null,n)}const f=e(o,[["render",r],["__file","text.html.vue"]]);export{f as default};

@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as n,Q as o,R as c}from"./framework-d033f4cd.js";const s={},r=c("h1",null,"前端资料",-1);function _(a,l){return t(),n("div",null,[r,o(" ## some ，every ")])}const m=e(s,[["render",_],["__file","index.html.vue"]]);export{m as default};

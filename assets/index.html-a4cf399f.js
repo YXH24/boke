@@ -1,0 +1,1 @@
+import{_ as t,M as n,p as o,q as a,N as c}from"./framework-d033f4cd.js";const _={};function r(s,l){const e=n("myData");return o(),a("div",null,[c(e)])}const d=t(_,[["render",r],["__file","index.html.vue"]]);export{d as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-72b0d23f","path":"/webDeveloper/arrayMethod.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"数组","slug":"数组","link":"#数组","children":[]},{"level":2,"title":"对象","slug":"对象","link":"#对象","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"webDeveloper/arrayMethod.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as t,p as o,q as _,R as e}from"./framework-d033f4cd.js";const s={},c=e("h2",null,"数组",-1),n=e("h2",null,"对象",-1),r=[c,n];function a(l,d){return o(),_("div",null,r)}const i=t(s,[["render",a],["__file","arrayMethod.html.vue"]]);export{i as default};
